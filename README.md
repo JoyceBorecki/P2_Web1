@@ -1,6 +1,3 @@
-# P2_Web1
-Exercício da prova dois realizada na disciplina de Desenvolvimento Web 1
-<br>
 <h1>Segunda Avaliação - Desenvolvimento Web 1</h1>
 
 <p>Crie uma única página que lista países e suas respectivas populações, bem como o nome da capital e as línguas faladas no país.</p>
